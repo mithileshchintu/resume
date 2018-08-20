@@ -1,0 +1,157 @@
+.main{
+	border: 2px solid red;
+	padding:2%;
+	margin:2%;
+	display: flex;
+	flex-direction: row;
+}
+a{
+	word-break: break-word;
+}
+.left{
+		border: 2px solid blue;
+		padding: 2%;
+		margin: 2%;
+		border-radius: 10%;
+		text-align: center;
+		width: 30%;
+	}
+.left img{
+	width:30%;
+	border-radius:50%;
+	border:5px solid green;
+	box-shadow:12px 20px 18px black;
+}
+.right{
+	border: 2px solid blue;
+	padding: 2%;
+	margin: 2%;
+	width: 60%;
+	background-color: pink;
+	}
+#number{
+		color:pink;
+		font-size:40px;
+	}
+p{
+		color: brown;
+		font-size: 25px;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px){
+	.main{
+	border: 2px solid blue;
+	padding: 2%;
+	margin:2%;
+	display:flex;
+	flex-direction: column;
+}
+a{
+	word-break: break-word;
+}
+.left{
+		border: 2px solid blue;
+		padding: 2%;
+		margin: 2%;
+		border-radius: 10%;
+		text-align: center;
+		width: 90%;
+}
+.left img{
+	width:50%;
+	border-radius: 50%;
+	margin: 2%;
+	width: 90%;
+	}
+#number{
+		color:pink;
+		font-size:40px;
+	}
+p{
+		color: brown;
+		font-size: 25px;
+	}
+.table1{
+	width: 90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+	.main{
+	border: 2px solid blue;
+	padding: 2%;
+	margin:2%;
+}
+.main{
+	display: flex;
+	flex-direction:row;
+}
+a{
+	word-break: break-word;
+}
+.left{
+		border: 2px solid blue;
+		padding: 2%;
+		margin: 2%;
+		border-radius: 10%;
+		text-align: center;
+		width: 50%;
+}
+.left img{
+	width:30%;
+	border-radius: 10%;
+	margin: 2%;
+	width: 50%;
+	}
+#number{
+		color:pink;
+		font-size:40px;
+	}
+p{
+		color: brown;
+		font-size: 25px;
+	}
+.table1{
+	width: 90%;
+	overflow-x: auto;
+}
+}
+@media only screen and (min-width:767px) and (max-width:1024px){
+	.main{
+	border: 2px solid blue;
+	padding: 2%;
+	margin:2%;
+}
+.main{
+	display: flex;
+	flex-direction:row;
+}
+a{
+	word-break: break-word;
+}
+.left{
+		border: 2px solid blue;
+		padding: 2%;
+		margin: 2%;
+		border-radius: 10%;
+		text-align: center;
+		width: 50%;
+}
+.left img{
+	width:30%;
+	border-radius: 10%;
+	margin: 2%;
+	width: 90%;
+	}
+#number{
+		color:pink;
+		font-size:40px;
+	}
+p{
+		color: brown;
+		font-size: 25px;
+	}
+.table1{
+	width: 90%;
+	overflow-x: auto;
+}
+}

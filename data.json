@@ -1,0 +1,57 @@
+{
+	"details":{
+	"image":"madhu.png",
+	"name":"madhuri",
+	"phoneno":"+91-9553415194",
+	"email":"saimadhurimaddirala@gmail.com",
+	"address":"vignan's nirula collage,guntur."
+	},
+	"carrer":{
+	"info":"to  pursue a challenging carrer and be a part of progersive thant to become a police officer"
+	},
+	"education":[
+	{
+	"qualification":"B.tech",
+	"institute":"vignan's nirula collage",
+	"year":"2020",
+	"percentage":"82%."
+	},
+	{
+	"qualification":"intermediate",
+	"institute":"sri chaitanya",
+	"year":"2016",
+	"percentage":"72%."
+	},
+	{
+	"qualification":"SSC",
+	"institute":"bhashyam",
+	"year":"2014",
+	"percentage":"85%."
+	}
+	],
+	"skills":[
+	{
+	"title":"programing languages",
+	"info":["c","java","c++","python"]
+	},
+	{
+	"title":"Database",
+	"info":["sql","msql","orcle"]
+	},
+	{
+	"title":"operating system",
+	"info":["windows","linux","ubuntu"]
+	}
+	],
+	"achievements":[
+	{
+	"title":"got certificate in IOT"
+	},
+	{
+	"title":"got certficate in MOC"
+	},
+	{
+		"title":"got certificate in JKC"
+		}
+		]
+}
